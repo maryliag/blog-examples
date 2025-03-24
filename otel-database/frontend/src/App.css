@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.add-area {
+  border: 1px solid;
+  margin: 20px;
+  padding: 20px;
+}
+
+input {
+  margin-bottom: 10px;
+  margin-left: 5px;
+  line-height: 25px;
+}
+
+table, td, th {
+  border: 1px solid;
+  padding: 10px;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 10px;
+}
+
+button {
+  padding: 5px;
+}
